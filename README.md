@@ -29,7 +29,9 @@ Through this project, I gained the following knowledge and skills:
 
 - How to use external APIs, such as the Open Weather API, to fetch data and display it in a web application.
 - How to use the Navigation API in the browser to obtain the user's location and use it to provide location-specific information.
-- How to use Leaflet to display an interactive map in a web application.Overall, this project provided me with a solid foundation in web development using Javascript and related technologies. The skills and knowledge I gained will be useful in future web development projects.
+- How to use Leaflet to display an interactive map in a web application.
+
+Overall, this project provided me with a solid foundation in web development using Javascript and related technologies. The skills and knowledge I gained will be useful in future web development projects.
 
 ## Contributing
 
