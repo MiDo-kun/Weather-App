@@ -1,7 +1,5 @@
 # Weather App
 
-## Project Description
-
 The Weather App is a web application that provides users with real-time weather information based on their location. The app displays a simple description of the weather, the user's location, and the temperature in degrees. The Weather App is built using core web technologies such as HTML, CSS, and JavaScript, and leverages the Open Weather API and Navigation API in the browser to provide accurate and up-to-date weather information.
 
 You can view the live website [here](https://weather-app-6e6a1.web.app/).
